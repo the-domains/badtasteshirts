@@ -1,0 +1,14 @@
+layout_spectrum: 0.8489010706543922
+typography_spectrum: 0.5275273630395532
+color:
+  brandStrength: 0.5427409398835152
+  lightness: 0.7449582072440535
+  saturation: 0.5859316170681268
+  rhythmicContrast: 0.3829522426240146
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: badtasteshirts
