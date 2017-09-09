@@ -4,9 +4,16 @@
         <description><![CDATA[BAD TASTE SHIRTS]]></description>
         <link>https://thegrid.ai/badtasteshirts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Sep 2017 04:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2017 04:02:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/badtasteshirts/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Sep 2017 04:01:34 GMT</pubDate>
+        <pubDate>Sat, 09 Sep 2017 04:01:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48c490ce-7848-471e-8f25-b9975019904b.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/48c490ce-7848-471e-8f25-b9975019904b.jpg</link>
+            <guid isPermaLink="false">634be1af-81ca-4a6a-9a53-8884c6c69c61</guid>
+            <pubDate>Sat, 09 Sep 2017 04:01:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56cd1795-85bf-4594-96d1-f160430f2c15.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2c18631-4733-4afd-b35e-3a7a982bddf0.jpg</link>
             <guid isPermaLink="false">cb66f263-8ac4-401b-8fc8-1628ca97b841</guid>
             <pubDate>Sat, 09 Sep 2017 04:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Electric Maze: Don't Get caught up in it! It Will fry your minnnnd!]]></title>
-            <description><![CDATA[]]></description>
-            <link>https://thegrid.ai/badtasteshirts/the-electric-maze-dont-get-caught-up-in-it-it-will-fry-yo/index.html</link>
-            <guid isPermaLink="false">f0dec5bd-f859-4324-be03-cb88be16f626</guid>
-            <pubDate>Thu, 01 Jun 2017 05:13:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
