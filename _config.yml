@@ -1,16 +1,26 @@
-typography_spectrum: 0.5275273630395532
+layout_spectrum: 0.5953524954594893
+typography_spectrum: 0.97935270453084
 color:
-  brandStrength: 0.5427409398835152
-  lightness: 0.7449582072440535
-  saturation: 0.5859316170681268
-  rhythmicContrast: 0.3829522426240146
+  brandStrength: 0.597625969239778
+  lightness: 0.1884394373571371
+  saturation: 0.30505505531270166
+  rhythmicContrast: 0.45119078101700927
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.8489010706543922
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d01c3c-75a0-4ab0-a629-f87d6bf9a7be.gif
 name: badtasteshirts
+navigation:
+  - name: GluGG
+    id: 27c58fb3-45a3-4a28-a12f-9f5b8e039e6a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/56ff41ac-dd13-4199-946e-cad9447cc744.jpg
 title: BAD TASTE SHIRTS
+content: []
 description: Get One!
